@@ -1,3 +1,5 @@
 A tool to get stop times for SEPTA buses, given a stop_id, route, and day of the week.
 
+Before using, go to the data directory and unzip google_bus.zip
+
 Copyright?? Anschel for now
